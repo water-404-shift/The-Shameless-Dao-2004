@@ -1,0 +1,6 @@
+{
+  "name": "賤修 — 仙俠戀愛養成視覺小說",
+  "description": "結合東方仙俠、宗門日常、多線戀愛養成與黑色幽默的混合式視覺小說遊戲。扮演太清宗陣法奇才四水若言，探索七大修真勢力與八千年天道之謎。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
